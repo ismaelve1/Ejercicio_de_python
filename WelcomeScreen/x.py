@@ -1,0 +1,11 @@
+x="abc"
+y="def"
+z=x+y
+print(z)
+v=3.5
+w=5.6
+u=v+w
+h=u+z
+print(u)
+print(h)
+type(x)

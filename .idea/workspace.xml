@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ee1cd0a-44f4-49ca-84ac-8de2ec9ffa38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/circ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/edad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/nuevo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/tablas de verdad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/tr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/.idea/PythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject2/.idea/PythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/.idea/WelcomeScreen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/aint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/area triangulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/areacirculo pi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/pi 5 cifr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WelcomeScreen/x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculadora-2bch.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1158235077426795" />
+      <entry key="MS500" value="1.6719095208113828" />
+      <entry key="S2" value="4.045724151072691" />
+      <entry key="S5" value="9.523729581304481" />
+      <entry key="S10" value="15.214299114046396" />
+      <entry key="S30" value="22.46009166549503" />
+      <entry key="S60" value="25.022723511036727" />
+      <entry key="M2" value="26.45502570137661" />
+      <entry key="M5" value="27.367864690911237" />
+      <entry key="M10" value="27.681520513124838" />
+      <entry key="M15" value="27.78714028238965" />
+      <entry key="M30" value="27.89329907931941" />
+      <entry key="H1" value="27.946581579950088" />
+      <entry key="H2" value="27.973273775702975" />
+      <entry key="H4" value="27.986632631236336" />
+      <entry key="D1" value="27.997771513750692" />
+      <entry key="W1" value="27.999681630333537" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0928601920078533" />
+      <entry key="MS500" value="1.6649732263860713" />
+      <entry key="S2" value="4.0414067431346234" />
+      <entry key="S5" value="9.519482679591716" />
+      <entry key="S10" value="15.210809312878196" />
+      <entry key="S30" value="22.45833419538957" />
+      <entry key="S60" value="25.02173850827834" />
+      <entry key="M2" value="26.454503400383185" />
+      <entry key="M5" value="27.367648159971722" />
+      <entry key="M10" value="27.68141093897551" />
+      <entry key="M15" value="27.787066939081384" />
+      <entry key="M30" value="27.893262259955716" />
+      <entry key="H1" value="27.946563133195426" />
+      <entry key="H2" value="27.973264543039196" />
+      <entry key="H4" value="27.98662801258056" />
+      <entry key="D1" value="27.997770743651778" />
+      <entry key="W1" value="27.9996815203115" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KJmC5pDIY7ntyCVVUuLZxV8I4F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.calculadora-2bch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee1cd0a-44f4-49ca-84ac-8de2ec9ffa38" name="Changes" comment="" />
+      <created>1791283917053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791283917053</updated>
+      <workItem from="1791283918061" duration="1338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculadora-2bch.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculadora_2bch.coverage" NAME="calculadora-2bch Coverage Results" MODIFIED="1791285051632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
